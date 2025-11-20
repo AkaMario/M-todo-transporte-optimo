@@ -20,10 +20,10 @@ function navbar() {
                     </Link>
                 </li>
                 <li className="flex items-center hover:scale-105 transition-transform">
-                    <Link to="https://github.com/AkaMario/M-todo-transporte-optimo" className="flex items-center">
+                    <a href="https://github.com/AkaMario/M-todo-transporte-optimo" className="flex items-center">
                         <FaGithub style={{ verticalAlign: 'middle', marginRight: 8 }} />
                         Github
-                    </Link>
+                    </a>
                 </li>
             </ul>
         </nav>

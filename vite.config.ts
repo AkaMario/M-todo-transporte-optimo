@@ -6,5 +6,8 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   plugins: [react(),
     tailwindcss(),
+      
   ],
+  base:"https://AkaMario.github.io/M-todo-transporte-optimo",
 })
+  

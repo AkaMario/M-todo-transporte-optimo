@@ -8,6 +8,6 @@ export default defineConfig({
     tailwindcss(),
       
   ],
-  base:"https://AkaMario.github.io/M-todo-transporte-optimo",
+  base:"https://AkaMario.github.io/M-todo-transporte-optimo/",
 })
   
